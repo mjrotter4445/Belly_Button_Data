@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Bellybutton Biodiversity</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/style.css" type="text/css"/>
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>Belly Button Biodiversity Dashboard</h1>
+        <p>Use the interactive charts below to explore the dataset</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2 text-center">
+        <div class="well">
+          <h5>Test Subject ID No.:</h5>
+          <!-- <select id="selDataset"></select> -->
+          <select id="selDataset" onchange="optionChanged(this.value)"></select>
+        </div>
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Demographic Info</h3>
+          </div>
+          <div id="sample-metadata" class="panel-body"></div>
+        </div>
+      </div>
+      <div class="col-md-5">
+        <div id="bar"></div>
+          <div class="well" id="otu">
+            <h4>OTU stands for</h4>
+            <p>
+             an operational taxonomic unit.<br> 
+             <br>
+             This definition is used to classify groups of closely related individuals - microorganisms in this case.
+            </p>
+            <p>Source and link to the full article:
+              <a href="https://en.wikipedia.org/wiki/Operational_taxonomic_unit#:~:text=From%20Wikipedia%2C%20the%20free%20encyclopedia,originally%20introduced%20by%20Robert%20R.">Wikipedia</a>.
+            </p>
+        </div>
+      </div>
+      <div class="col-md-5">
+        <div id="gauge"></div>
+          <div class="well" id="scrub">
+            <h4>How to clean your navel?</h4>
+            <p>
+             Dip a cotton swab in rubbing alcohol and gently rub the surfaces inside your navel.
+             Next, use a fresh one dipped in water to rinse the alcohol so it doesn’t dry your skin.
+            </p>
+            <p>Source and link to the full article:
+              <a href="https://www.healthline.com/health/dirty-belly-button">Healthline</a>.
+            </p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div id="bubble"></div>
+      </div>
+    </div>
+    <div class="row"></div>
+      <div class="col-md-12">
+        <div class="well" id='know'>
+          <h4>Did you know?</h4>
+          <p>
+            Pierced or tattooed, hairy or smooth, sexy or ugly, stuck out or stuck in – the navel is an intriguing part of the human body and so are the navel facts.
+            Often referred to as belly button, the navel has provoked thoughts, kicked started research and yes, it is something that can actually let you go down in her pants if explored properly.
+            So, what makes this navel such an interesting thing on our body? Why is it there? What is its purpose? Let us try and find out the answers to these questions through this list of 20 interesting navel facts.
+          </p>
+          <p>Source and link to the full article:
+            <a href="https://factslegend.org/20-interesting-navel-facts/">factslegend.org</a>.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="charts.js"></script>
+
+</body>
+
+</html>
+ 
