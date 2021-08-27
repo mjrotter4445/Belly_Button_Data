@@ -27,7 +27,7 @@ Belly Button Biodiversity Interactive Dashboard:
 ### Background & the Process of Development  -write this part next 
 In this development, we used **JavaScript** as the primary coding language along with Plotly.js library.  The combination of the two allows
 Users to not be required to install additional programs, such as  **JavaScript**, on their computers in order to run the code. 
-JavaScript enables us to create visualizet in that are attractive, accessible, and interactive,   
+JavaScript enables us to create visualizations that are attractive, accessible, and interactive.     
 
 ### Resources
  -  The data for the table is stored in a JavaScript array or list named **samples.json**
