@@ -38,4 +38,4 @@ JavaScript enables us to create visualizet in that are attractive, accessible, a
  -  Further we use a new Dependency named **D3**. 
  -  Additionally, we deployed the final results of Belly Button Biodiversity Dashboard on **GitHub**
 
- This is an interactive page, so please experiment and try it out!  
+ This link is above and is an interactive page, so please experiment and try it out!  
