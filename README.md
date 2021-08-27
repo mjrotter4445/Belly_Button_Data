@@ -30,7 +30,7 @@ Belly Button Biodiversity Interactive Dashboard:
 </p>
 
 <p align="center">
-<img src="xxxxxxxxxxWeb capture.jpg" width="60%" height="60%">
+<img src="https://github.com/mjrotter4445/Belly_Button_Data/blob/main/images/Webcapture.jpg" width="60%" height="100%">
 </p>
 
 ### Background & the Process of Development  -write this part next 
