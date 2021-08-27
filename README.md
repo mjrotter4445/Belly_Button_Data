@@ -14,9 +14,25 @@ do a deep dive into their own results or compare to others. The dashboard can be
 
 Belly Button Biodiversity Interactive Dashboard: 
 
-<!-- <p align="center"> -->
- https://mjrotter4445.github.io/Belly_Button_Data/   
-<!-- </p> -->
+<br>
+<br>
+<p align="center">
+:microbe: <b>Belly Button Biodiversity Interactive Dashboard:</b> https://mjrotter4445.github.io/Belly_Button_Data/  :microbe:
+</p>
+<br>
+
+<p align="center">
+<img src="images/Animation.gif" width="60%" height="60%">
+</p>
+
+<p align="center">
+<i>Figure 1: Dashboard Preview</i>
+</p>
+
+<p align="center">
+<img src="xxxxxxxxxxWeb capture.jpg" width="60%" height="60%">
+</p>
+
 ### Background & the Process of Development  -write this part next 
 In this development, we used **JavaScript** as the primary coding language along with Plotly.js library.  The combination of the two allows
 Users to not be required to install additional programs, such as  **JavaScript**, on their computers in order to run the code. 
