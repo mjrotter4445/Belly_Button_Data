@@ -13,7 +13,6 @@ Raw data from JavaScript array is now displayed in a dynamic dashboard with a pu
 do a deep dive into their own results or compare to others. The dashboard can be found at the link that follows.  Please try it on your own.   
 
 Belly Button Biodiversity Interactive Dashboard: 
-
 <br>
 <br>
 <p align="center">
@@ -22,7 +21,7 @@ Belly Button Biodiversity Interactive Dashboard:
 <br>
 
 <p align="center">
-<img src="https://github.com/mjrotter4445/Belly_Button_Data/blob/main/images/Webcapture.jpg" width="60%" height="100%">
+<img src="https://github.com/mjrotter4445/Belly_Button_Data/blob/main/images/Webcapture.jpg" width="80%" height="100%">
 </p>
 
 ### Background & the Process of Development  -write this part next 
