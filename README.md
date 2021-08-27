@@ -22,14 +22,6 @@ Belly Button Biodiversity Interactive Dashboard:
 <br>
 
 <p align="center">
-<img src="images/Animation.gif" width="60%" height="60%">
-</p>
-
-<p align="center">
-<i>Figure 1: Dashboard Preview</i>
-</p>
-
-<p align="center">
 <img src="https://github.com/mjrotter4445/Belly_Button_Data/blob/main/images/Webcapture.jpg" width="60%" height="100%">
 </p>
 
