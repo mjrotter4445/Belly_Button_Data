@@ -24,7 +24,7 @@ Belly Button Biodiversity Interactive Dashboard:
 <img src="https://github.com/mjrotter4445/Belly_Button_Data/blob/main/images/Webcapture.jpg" width="80%" height="100%">
 </p>
 
-### Background & the Process of Development  -write this part next 
+### Background & the Process of Development   
 In this development, we used **JavaScript** as the primary coding language along with Plotly.js library.  The combination of the two allows
 Users to not be required to install additional programs, such as  **JavaScript**, on their computers in order to run the code. 
 JavaScript enables us to create visualizations that are attractive, accessible, and interactive.     
