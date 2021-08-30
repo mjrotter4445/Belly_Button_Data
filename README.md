@@ -21,7 +21,7 @@ Belly Button Biodiversity Interactive Dashboard:
 <br>
 
 <p align="center">
-<img src="https://github.com/mjrotter4445/Belly_Button_Data/blob/main/images/animation.gif" width="80%" height="100%">
+<img src="https://github.com/mjrotter4445/Belly_Button_Data/blob/main/images/animation.gif" width="70%" height="100%">
 </p>
 
 ### Background & the Process of Development   
